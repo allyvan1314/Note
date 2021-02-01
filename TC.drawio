@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T04:55:24.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="oAjBWiU8t3GBj4PQBGgA" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T04:55:50.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="HDNPBNZm3wqydpgcHCe4" version="14.2.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2285" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="TC-Digital Lending" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=9;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="40" width="980" height="1750" as="geometry" />
+          <mxGeometry x="-120" y="40" width="910" height="1750" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="TC" style="swimlane;html=1;startSize=20;fontSize=9;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="340" height="1730" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sn5IcHB00ik4vEwBjSoz-58" value="Senior Operator (CE)" style="swimlane;html=1;startSize=20;fontSize=9;" vertex="1" parent="77e6c97f196da883-1">
-          <mxGeometry x="600" y="20" width="380" height="1730" as="geometry" />
+          <mxGeometry x="600" y="20" width="310" height="1730" as="geometry" />
         </mxCell>
         <mxCell id="sn5IcHB00ik4vEwBjSoz-71" value="Check &amp;amp; verify customer through phone&lt;br&gt;Get final decision" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;fontFamily=Verdana;fontSize=9;strokeWidth=1;" vertex="1" parent="sn5IcHB00ik4vEwBjSoz-58">
           <mxGeometry x="130" y="1385" width="120" height="60" as="geometry" />
